@@ -1,3 +1,6 @@
+# Data
+PetImages/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +175,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+Assignement1/MSR-LA - 3467.docx
+Assignement1/readme\[1\].txt

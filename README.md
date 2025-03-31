@@ -5,7 +5,7 @@ Data Science Assignements
 
 There is a good tutorial on how to build an image classifier from scratch here: [Keras Image Classification Tutorial](https://keras.io/examples/vision/image_classification_from_scratch/).
 
-**Note:** The cats and dogs dataset is not available anymore from the resource provided in the tutorial, but you can download it from here [Download here].
+**Note:** The cats and dogs dataset is not available anymore from the resource provided in the tutorial, but you can download it from here [Download here](https://ju.instructure.com/courses/12246/files/2028871?wrap=1).
 
 However, in this tutorial, it is hinted that it can be advantageous to use pre-trained weights, where these come from a model that is trained on a similar dataset (this is called transfer learning). In this assignment, we will test if this is the case and if so, we will test how effective transfer learning is. To achieve this, we will conduct several experiments. You should use the same network architecture and training parameters for all these experiments, and you should record and report the accuracy on the cats and dogs dataset for each epoch in all 4 experiments. To pass this assignment, you should perform all the following bullet points below:
 
