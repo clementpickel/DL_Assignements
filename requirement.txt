@@ -2,4 +2,6 @@ ipykernel
 numpy
 keras
 tensorflow
+tensorflow-datasets
 matplotlib
+pydot
