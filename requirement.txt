@@ -5,3 +5,5 @@ tensorflow
 tensorflow-datasets
 matplotlib
 pydot
+spicy
+graphviz
