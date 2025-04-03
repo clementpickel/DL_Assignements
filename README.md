@@ -1,5 +1,5 @@
 # DL_Assignements
-Data Science Assignements
+Deep Learning Assignements
 
 # Assignement 1
 
