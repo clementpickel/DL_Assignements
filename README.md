@@ -60,7 +60,7 @@ Given such a graph representation, as well as certain attributes about each road
 For this task, you are strongly advised to use this tutorial as a starting point: [Graph Attention Network (GAT) Node Classification](https://keras.io/examples/graph/gat_node_classification/).
 
 ## Dataset
-Unfortunately, there is no publicly available traffic trajectory dataset. Therefore, we are using a pedestrian trajectory dataset recorded in a Japanese mall. Consequently, there are only pedestrians in the provided dataset.
+Unfortunately, there is no publicly available traffic trajectory dataset. Therefore, we are using a pedestrian trajectory dataset recorded in a Japanese mall. Consequently, there are only [pedestrians in the provided dataset](https://dil.atr.jp/crest2010_HRI/ATC_dataset/).
 
 As in the tutorial, the provided dataset consists of two files for each traffic scene:
 
@@ -78,7 +78,7 @@ As in the tutorial, the provided dataset consists of two files for each traffic 
   - The `previous x` and `previous y` represent the location of the pedestrian 1 second ago. You can use these values directly or infer movement direction and speed.
   - The `future x` and `future y` represent the target values, i.e., the location where the pedestrian will be in 1 second.
   - Some pedestrians do not have `future x` and `future y` coordinates, so you need to filter those for prediction. However, their current and previous locations can still be used when predicting the future locations of other pedestrians.
-
+- [Dataset](https://ju.instructure.com/courses/12246/files/2028882?wrap=1)
 ## Assignment Tasks
 
 ### **Task 1**
